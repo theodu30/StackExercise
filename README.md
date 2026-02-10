@@ -1,2 +1,5 @@
-# StackExercise
-An attempt at recreating Stack (Ketchapp), done in 3.5 hours as a class exercise.
+This was a project made in class.
+
+It's an exercise to help us understand how to make good prototypes in a short time.
+
+This project is now on GitHub for accessibility and visibility.
