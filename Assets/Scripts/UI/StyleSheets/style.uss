@@ -1,0 +1,31 @@
+.restart-button {
+    background-image: url("project://database/Assets/Textures/restart_button.png?fileID=2800000&guid=049f7869bbd4b504e97cfb5f773279f5&type=3#restart_button");
+}
+
+.restart-button:active {
+    background-image: url("project://database/Assets/Textures/restart_button_pressed.png?fileID=2800000&guid=34bc9d303b537d4499697e65aeae9e3b&type=3#restart_button_pressed");
+}
+
+.menu-button {
+    background-image: url("project://database/Assets/Textures/home_button.png?fileID=2800000&guid=d18549e7a0ddeee4da232d41c724b601&type=3#home_button");
+}
+
+.menu-button:active {
+    background-image: url("project://database/Assets/Textures/home_button_pressed.png?fileID=2800000&guid=a22b0a171fb95ee4facc3656013a705d&type=3#home_button_pressed");
+}
+
+.quit-button {
+    background-image: url("project://database/Assets/Textures/quit_button.png?fileID=2800000&guid=26a0ed39b6647a041abd1e227ce92451&type=3#quit_button");
+}
+
+.quit-button:active {
+    background-image: url("project://database/Assets/Textures/quit_button_pressed.png?fileID=2800000&guid=3293a1a959521d346a44242a1a3ffc2f&type=3#quit_button_pressed");
+}
+
+.play-button {
+    background-image: url("project://database/Assets/Textures/play_button.png?fileID=2800000&guid=4ac4df69b715be14d90009c4117e0507&type=3#play_button");
+}
+
+.play-button:active {
+    background-image: url("project://database/Assets/Textures/play_button_pressed.png?fileID=2800000&guid=f535f7cfc34067e44ae948fe4ae80a6b&type=3#play_button_pressed");
+}

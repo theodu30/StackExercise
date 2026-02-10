@@ -1,0 +1,8 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/StyleSheets/style.uss?fileID=7433441132597879392&amp;guid=aff8ae7880954ca45a01d62e69087c23&amp;type=3#style" />
+    <ui:Label text="0" name="Score" style="position: absolute; align-self: center; top: 50px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; font-size: 100px; -unity-font-style: bold; color: rgb(55, 63, 87);" />
+    <ui:VisualElement name="Buttons" style="position: absolute; flex-direction: row; align-self: center; bottom: 50px; justify-content: space-around; align-items: center; align-content: center; width: 500px; height: auto;">
+        <ui:Button name="Restart" class="restart-button" style="background-color: rgba(188, 188, 188, 0); -unity-background-scale-mode: scale-to-fit; width: 160px; height: 160px; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0;" />
+        <ui:Button name="Home" class="menu-button" style="background-color: rgba(188, 188, 188, 0); -unity-background-scale-mode: scale-to-fit; border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; width: 160px; height: 160px;" />
+    </ui:VisualElement>
+</ui:UXML>

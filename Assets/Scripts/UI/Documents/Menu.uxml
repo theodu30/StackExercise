@@ -1,0 +1,10 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/StyleSheets/style.uss?fileID=7433441132597879392&amp;guid=aff8ae7880954ca45a01d62e69087c23&amp;type=3#style" />
+    <ui:VisualElement name="Background" style="position: absolute; width: 100%; height: 100%; background-image: url(&quot;project://database/Assets/Textures/menu_background.png?fileID=2800000&amp;guid=c8a8e670322dea04abc5a4430c432869&amp;type=3#menu_background&quot;);">
+        <ui:Label text="STACK" style="position: absolute; align-self: center; top: 50px; -unity-font-style: bold; font-size: 125px; -unity-text-align: upper-center; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="BUTTONS" style="align-items: center; align-self: center; justify-content: space-around; position: absolute; bottom: 50px; flex-direction: row; width: 500px; align-content: center;">
+        <ui:Button name="Quit" class="quit-button" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgba(0, 0, 0, 0); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; width: 160px; height: 160px;" />
+        <ui:Button name="Play" class="play-button" style="margin-top: 0; margin-right: 0; margin-bottom: 0; margin-left: 0; padding-top: 0; padding-right: 0; padding-bottom: 0; padding-left: 0; background-color: rgba(0, 0, 0, 0); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; width: 160px; height: 160px;" />
+    </ui:VisualElement>
+</ui:UXML>
